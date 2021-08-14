@@ -1,3 +1,7 @@
 png/*
 tiff/*
 unet-with-pretrained-resnet50-encoder-pytorch (1).ipynb
+sample_predictions/*
+metadata.csv
+label_class_dict.csv
+
